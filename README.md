@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React Task Tracker
+
+This project was created as a part of learning course from [Brad Traversy](https://github.com/bradtraversy/react-crash-2021)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
